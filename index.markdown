@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
 ---
-# About
 
 Welcome to my portfolio site. I intend to host projects and blogposts here. For now, though, the site is a project in itself.
 
