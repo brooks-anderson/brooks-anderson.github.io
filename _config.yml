@@ -32,6 +32,7 @@ remote_theme: brooks-anderson/just-the-docs
 # theme: just-the-docs
 plugins:
   - jekyll-feed
+  -jemoji
 
 search_enabled: true
 aux_links:
