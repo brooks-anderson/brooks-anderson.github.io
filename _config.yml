@@ -38,9 +38,9 @@ plugins:
 
 search_enabled: true
 aux_links:
-  '<i class="fa fa-github"></i>':
+  '<i class="fa fa-github fa-2x"></i>':
     - "//github.com/brooks-anderson"
-  "LinkedIn":
+  '<i class="fa fa-linkedin-in fa-2x"></i>':
     - "//linkedin.com/in/brooks-s-anderson"
 
 # Exclude from processing.
