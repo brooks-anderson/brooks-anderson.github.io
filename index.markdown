@@ -10,5 +10,3 @@ Welcome to my portfolio site. I intend to host projects and blogposts here. For 
 
 You can find most of my work on Github:
 [brooks-anderson](https://github.com/brooks-anderson)
-
-<i class="fa fa-github"></i>
