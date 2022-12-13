@@ -40,8 +40,10 @@ aux_links:
   '<i class="fa fa-linkedin fa-2x"></i>':
     - "//linkedin.com/in/brooks-s-anderson"
 
-footer_content:
-  "No footer"
+nav_external_links:
+  - title: Reading List
+    url: https://brooks-anderson.github.io/my-reading-list/
+    hide_icon: true # set to true to hide the external link icon - defaults to false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
