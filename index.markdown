@@ -11,6 +11,8 @@ Welcome to my portfolio site. I intend to host projects and blogposts here. For 
 You can find most of my work on Github:
 [brooks-anderson](https://github.com/brooks-anderson)
 
+<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+
 <script>
 const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
 
