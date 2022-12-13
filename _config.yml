@@ -32,8 +32,14 @@ github_username:  brooks-anderson
 # Build settings
 #remote_theme: chrisrhymes/bulma-clean-theme
 remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 plugins:
   - jekyll-feed
+
+search_enabled: true
+aux_links:
+  - "Just the Docs on GitHub":
+    - "//github.com/just-the-docs/just-the-docs"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
